@@ -1,2 +1,1 @@
-Display the contents list of your current directory in long format
-
+A script that changes the working directory to the previous one
