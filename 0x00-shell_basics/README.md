@@ -1,1 +1,2 @@
-Basics on Shell and command line.
+Display the contents list of your current directory in long format
+
