@@ -12,4 +12,5 @@
 11.A script that adds permissions.
 12.A script that creates a directory.
 13.A script that changes the group owner.
-14.A script that changes owner and group owner for all files. 
+14.A script that changes owner and group owner for all files.
+15.A script changing owner, group owner and staff. 
