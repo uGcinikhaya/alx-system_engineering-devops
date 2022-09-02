@@ -6,3 +6,4 @@
 5.A script that gives permission to execute to the user
 6.A script that adds execute permission to the owner and the group owner, and read permission to other users.
 7.A script that adds execution permission to the owner, the group owner and the other users, to the file.
+8.A script that gives permission to the file: owners have no permission, Group has no permission and users have all the permission. 
