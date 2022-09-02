@@ -10,4 +10,5 @@
 9.A script that allows owner full rights being read, write, execute. Group can only execute and read. Others can only write and execute.
 10.A script that sets the mode of a file by referencing another one.
 11.A script that adds permissions.
-12.A script that creates a directory. 
+12.A script that creates a directory.
+13.A script that changes the group owner. 
