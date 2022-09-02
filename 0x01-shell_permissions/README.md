@@ -8,4 +8,5 @@
 7.A script that adds execution permission to the owner, the group owner and the other users, to the file.
 8.A script that gives permission to the file: owners have no permission, Group has no permission and users have all the permission.
 9.A script that allows owner full rights being read, write, execute. Group can only execute and read. Others can only write and execute.
-10.A script that sets the mode of a file by referencing another one. 
+10.A script that sets the mode of a file by referencing another one.
+11.A script that adds permissions. 
