@@ -13,4 +13,6 @@
 12.A script that creates a directory.
 13.A script that changes the group owner.
 14.A script that changes owner and group owner for all files.
-15.A script changing owner, group owner and staff. 
+15.A script changing owner, group owner and staff.
+16.A script changing owner if user is guillaume.
+17.A script that will play the StarWars IV episode in the terminal. 
