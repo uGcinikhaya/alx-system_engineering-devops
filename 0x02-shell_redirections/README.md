@@ -11,3 +11,4 @@ A script that duplicates the last line of the file.
 A script that deletes all the regular files, with a .js extension.
 A script that counts the number of directories and sub-directories in the current directory.
 A script that displays the 10 newest files in the current directory.
+A script that takes a list of words as input and prints only words that appear exactly once.
