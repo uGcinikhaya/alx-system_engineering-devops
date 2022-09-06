@@ -7,3 +7,4 @@ A command to display the first 10 lines of a file, the HEAD.
 A script to display the 3rd line of file iacta.
 A script that creates a file and ends in a specific text.
 A script that writes into a file the result of a command.
+A script that duplicates the last line of the file.
