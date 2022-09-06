@@ -17,3 +17,4 @@ A command to display lines that contain the pattern bin.
 A command to display lines containing the pattern “root” and 3 lines after them in the file.
 A a command that hides the word bin on all lines.
 A command that displays all lines of a file, that start with a letter.
+A command that Replace all characters A and c from input to Z and e respectively.
