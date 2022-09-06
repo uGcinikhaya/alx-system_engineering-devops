@@ -9,3 +9,4 @@ A script that creates a file and ends in a specific text.
 A script that writes into a file the result of a command.
 A script that duplicates the last line of the file.
 A script that deletes all the regular files, with a .js extension.
+A script that counts the number of directories and sub-directories in the current directory.
