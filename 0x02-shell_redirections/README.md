@@ -14,3 +14,4 @@ A script that displays the 10 newest files in the current directory.
 A script that takes a list of words as input and prints only words that appear exactly once.
 A command to display lines containing root from a file.
 A command to display lines that contain the pattern bin.
+A command to display lines containing the pattern “root” and 3 lines after them in the file.
